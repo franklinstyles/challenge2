@@ -13,27 +13,27 @@
 
 ## Setup
 
-1.   ** clone the repo **
+    1.   ** clone the repo **
 
    ```
     git clone https://github.com/franklinstyles/challenge2  from your terminal.
     ```
-2.   ** Navigation **
+    2.   ** Navigation **
       ```bash
       cd-(change directory)--change the directory in your terminal and access it.
       ```
- 3.  ** open directory in vs-code **  
+    3.  ** open directory in vs-code **  
       ```     
        using the words 'code ..' in your terminal it will lead you to the vs-code.  
        ```
- 4.   ** open it in your preffered website **
+    4.  ** open it in your preffered website **
       ```
       make sure you have downloaded live server.You open the index.html file and rightclick and press the option for open with liveserver.
       ```  
-    ## OR  
+
   - you can use this link and open it on the as a site,but you access the code.
       ```
       https://franklinstyles.github.io/challenge2/    
       ```
-                 
+
 
