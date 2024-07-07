@@ -13,27 +13,41 @@
 
 ## Setup
 
-    1.   ** clone the repo **
-
-   ```
-    git clone https://github.com/franklinstyles/challenge2  from your terminal.
-    ```
-    2.   ** Navigation **
+   - clone the repo
+      ```bash
+     git clone 'git@github.com:franklinstyles/challenge2.git ' in your terminal.
+      ```
+   -  Navigation
       ```bash
       cd-(change directory)--change the directory in your terminal and access it.
       ```
-    3.  ** open directory in vs-code **  
-      ```     
+   -  open directory in vs-code
+      ```bash     
        using the words 'code ..' in your terminal it will lead you to the vs-code.  
        ```
-    4.  ** open it in your preffered website **
-      ```
+   - open it in your preffered website
+      ```bash
       make sure you have downloaded live server.You open the index.html file and rightclick and press the option for open with liveserver.
       ```  
 
-  - you can use this link and open it on the as a site,but you access the code.
-      ```
+   - you can use this link and open it on the as a site,but you access the code.
+     - This is the deployed link.
+      ```bash
       https://franklinstyles.github.io/challenge2/    
       ```
+ ## Contributors
+   
+   - Javascript
+       - I have jave script to add new items according to the input of the user.
+       - I have used the javascript to manipulate every single button to carry out the fuction it has been assigned to.
 
+   - index.html
+       - I have used the index.html to create buttons and give them ids so that i can assign functions for them in the javascript.    
+       - i have also used the index.html to link the css and the html so that they can operate on my live server.
+   -  style.css
+       - I have used the css for styling and making the project look good.    
+     
+   ## Author
+      - Franklin Ndegwa
+      - Date:July 7
 
